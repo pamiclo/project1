@@ -5,4 +5,6 @@ soyad=input("Soyadınızı giriniz")
 
 print("asd")
 print("dsa")
-input("şifreniz nedir")
+şifre=input("şifreniz nedir")
+if şifre=559
+print("şifre doğru")
