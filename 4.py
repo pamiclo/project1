@@ -1,3 +1,4 @@
-print("EMEKLİ OLABİLME DURUMU KONTROL PROGRAMINA HOŞ GELDİNİZ..\n")
+﻿print("EMEKLİ OLABİLME DURUMU KONTROL PROGRAMINA HOŞ GELDİNİZ..\n")
 
 ad=input("Adınızı giriniz")
+soyad=input("Soyadınızı giriniz")
