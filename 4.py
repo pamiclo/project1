@@ -1,2 +1,3 @@
 print("EMEKLİ OLABİLME DURUMU KONTROL PROGRAMINA HOŞ GELDİNİZ..\n")
-print("SİZDEN BAZI BİLGİLERİNİZİ ALMAMIZ GEREKMEKTEDİR.\n")
+
+ad=input("Adınızı giriniz")
