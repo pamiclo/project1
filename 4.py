@@ -5,3 +5,4 @@ soyad=input("Soyadınızı giriniz")
 
 print("asd")
 print("dsa")
+input("şifreniz nedir")
