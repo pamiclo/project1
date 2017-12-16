@@ -4,3 +4,4 @@ ad=input("Adınızı giriniz")
 soyad=input("Soyadınızı giriniz")
 
 print("asd")
+print("dsa")
