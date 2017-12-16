@@ -2,3 +2,5 @@
 
 ad=input("Adınızı giriniz")
 soyad=input("Soyadınızı giriniz")
+
+print("asd")
